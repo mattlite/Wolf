@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wolf_setup.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\layout\\wolf_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wolf_tee.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\layout\\wolf_tee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wolf_leaderboard.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\layout\\wolf_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wolf_green.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\layout\\wolf_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wolf_scorecard.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\layout\\wolf_scorecard.xml"
+    }
+]

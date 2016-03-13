@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grass_bg_480x600.gif",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\grass_bg_480x600.gif"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext_states.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\rounded_edittext_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bluebutton.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\bluebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bugs.jpg",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\bugs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\duder.jpg",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\duder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_wolf.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\android_wolf.png"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext_focused.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\rounded_edittext_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wolf.jpg",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\wolf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_focused.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\rounded_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greenbutton.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\greenbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\graybutton.xml",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable\\graybutton.xml"
+    }
+]

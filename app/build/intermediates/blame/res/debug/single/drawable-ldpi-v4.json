@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wolf.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable-ldpi\\wolf.png"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wolf2.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable-ldpi\\wolf2.png"
+    }
+]

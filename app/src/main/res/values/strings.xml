@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Wolf</string>
+    <string name="gog_wolf">Golf Bookie - Wolf</string>
+    <string name="wolf">WOLF</string>
+    <string name="buyin">Buy In $</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player3">Player 3</string>
+    <string name="player4">Player 4</string>
+    <string name="start">START GAME</string>
+    <string name="currentHole">Hole</string>
+    <string name="currentWolf">Current Wolf :</string>
+    <string name="choose">Pick Your Teammate</string>
+    <string name="lone">LONE WOLF</string>
+    <string name="blind">BLIND WOLF</string>
+    <string name="teams">Teams: </string>
+    <string name="t1">Team 1</string>
+    <string name="t2">Team 2</string>
+    <string name="push">Push Hole</string>
+    <string name="scoreboard">Leaderboard</string>
+    <string name="firstPlace">1</string>
+	<string name="secondPlace">2</string>
+	<string name="thridPlace">3</string>
+	<string name="fourthPlace">4</string>
+	<string name="points">0</string>
+	<string name="grossCash">0</string>
+	<string name="netCash">0</string>
+	<string name="pointAmount">Points $</string>
+	<string name="holeScore">4</string>
+	<string name="next">Next Hole</string>
+	<string name="pointsLabel">Possible Points</string>
+	<string name="activePoints">2</string>
+	<string name="lbscore">Score</string>
+	<string name="lbpoints">Points</string>
+	<string name="lbbet">Bet</string>
+	<string name="percentStart">Percent Based</string>
+	<string name="pointStart">Point Based</string>
+	<string name="wolfStart">Choose your preferred scoring method:</string>
+	<string name="p1Score">72</string>
+	<string name="p2Score">76</string>
+	<string name="p3Score">78</string>
+	<string name="p4Score">80</string>
+	<string name="p1Points">18</string>
+	<string name="p2Points">14</string>
+	<string name="p3Points">12</string>
+	<string name="p4Points">8</string>
+	<string name="p1Bet">$11</string>
+	<string name="p2Bet">$3</string>
+	<string name="p3Bet">($5)</string>
+	<string name="p4Bet">($9)</string>        
+	    
+	    
+    
+
+</resources>

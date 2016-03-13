@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+     
+        <TableRow  
+        android:id="@+id/tableRow0"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"  
+        android:gravity="center_horizontal">  
+        <TextView  
+            android:id="@+id/CustomFontText"  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:textStyle="bold"  
+            android:typeface="serif"  
+            android:textSize="32sp"  
+            android:textColor="@color/white"
+            android:text="@string/scoreboard" 
+            android:layout_margin="20dp" 
+            android:gravity="center"  
+            android:layout_span="6"></TextView>  
+    </TableRow>  
+    <TableRow  
+        android:id="@+id/tableRow1"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent">  
+        <TextView  
+            android:id="@+id/TextView1.0"  
+            android:text=""></TextView>  
+        <TextView  
+            android:id="@+id/TextView1.1"  
+            android:text="@string/lbscore" 
+            android:gravity="center_horizontal"
+            android:layout_width="50dp"
+            android:layout_margin="5dp"
+            android:textColor="@color/white" 
+            android:textStyle="bold"  
+            android:typeface="serif"></TextView>  
+        <TextView  
+            android:id="@+id/TextView1.2"  
+            android:text="@string/lbpoints"
+            android:gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:layout_width="50dp"
+            android:textColor="@color/white"  
+            android:textStyle="bold"  
+            android:typeface="serif"></TextView>  
+        <TextView  
+            android:id="@+id/TextView1.3"  
+            android:text="@string/lbbet"
+            android:gravity="center_horizontal"
+            android:layout_width="50dp"
+            android:layout_margin="5dp"
+            android:textColor="@color/white"  
+            android:textStyle="bold"  
+            android:typeface="serif"></TextView>        
+    </TableRow>  
+    <TableRow  
+        android:id="@+id/tableRow2"
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">  
+
+        <TextView
+            android:id="@+id/playerInFirst"
+            android:layout_width="90dp"
+            android:layout_marginLeft="15dp"
+            android:text="@string/player1"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" ></TextView>
+
+        <TextView
+            android:id="@+id/p1Score"
+            android:gravity="center_horizontal"
+            android:text="@string/p1Score"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>
+  
+        <TextView
+            android:id="@+id/p1Points"
+            android:gravity="center_horizontal"
+            android:text="@string/p1Points"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p1Bet"
+            android:gravity="center_horizontal"
+            android:text="@string/p1Bet"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+    </TableRow>  
+    <TableRow  
+        android:id="@+id/tableRow3" 
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">  
+
+        <TextView
+            android:id="@+id/playerInSecond"
+            android:layout_marginLeft="15dp"
+            android:text="@string/player2"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p2Score"
+            android:gravity="center_horizontal"
+            android:text="@string/p2Score"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p2Points"
+            android:gravity="center_horizontal"
+            android:text="@string/p2Points"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p2Bet"
+            android:gravity="center_horizontal"
+            android:text="@string/p2Bet"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+    </TableRow>
+    <TableRow  
+        android:id="@+id/tableRow4"
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">  
+
+        <TextView
+            android:id="@+id/playerInThird"
+            android:layout_marginLeft="15dp"
+            android:text="@string/player3"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p3Score"
+            android:gravity="center_horizontal"
+            android:text="@string/p3Score"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p3Points"
+            android:gravity="center_horizontal"
+            android:text="@string/p3Points"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p3Bet"
+            android:gravity="center_horizontal"
+            android:text="@string/p3Bet"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+    </TableRow>
+    <TableRow  
+        android:id="@+id/tableRow5"
+        android:layout_height="wrap_content"         
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp">  
+
+        <TextView
+            android:id="@+id/playerInFourth"
+            android:layout_marginLeft="15dp"
+            android:text="@string/player4"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p4Score"
+            android:gravity="center_horizontal"
+            android:text="@string/p4Score"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p4Points"
+            android:gravity="center_horizontal"
+            android:text="@string/p4Points"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+
+        <TextView
+            android:id="@+id/p4Bet"
+            android:gravity="center_horizontal"
+            android:text="@string/p4Bet"
+            android:textColor="@color/white"
+            android:textSize="18sp" >
+</TextView>  
+    </TableRow>  
+    <TableRow  
+        android:id="@+id/tableRow6"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"  
+        android:gravity="center">  
+    </TableRow>  
+    
+
+</TableLayout>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <TextView
+        android:id="@+id/greenCurrentHole"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="17dp"
+        android:text="@string/currentHole"
+        android:textSize="18sp" />
+    
+    <TextView
+        android:id="@+id/greenHole"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="25dp"
+        android:text="@string/currentHole"
+        android:textColor="@color/white"
+        android:textSize="28sp" />
+        
+    <TextView
+        android:id="@+id/greenCurrentWolf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="17dp"
+        android:text="@string/currentWolf"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/greenActiveWolf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/greenHole"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="25dp"
+        android:text="@string/player1"
+        android:textColor="@color/white"
+        android:textSize="22sp" />
+    
+    <TextView
+        android:id="@+id/teams"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_centerInParent="true"
+        android:text="@string/teams"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/greenHole"/>
+
+    <Button
+        android:id="@+id/t1Button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="25dp"
+        android:layout_below="@+id/teams"
+        android:layout_marginTop="23dp"
+        android:text="@string/t1" />
+   
+   <Button
+        android:id="@+id/t2Button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="25dp"
+        android:layout_below="@+id/t1Button"
+        android:layout_marginTop="5dp"
+        android:text="@string/t2" />
+   
+   <TextView
+       android:id="@+id/t1p1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/teams"
+       android:layout_toRightOf="@+id/t1Button"
+       android:layout_marginLeft="55dp"
+       android:layout_marginTop="35dp"
+       android:text="@string/player1" />
+      
+    <TextView
+       android:id="@+id/t1p2"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/t1p1"
+       android:layout_toRightOf="@+id/t1Button"
+       android:layout_marginLeft="55dp"
+       android:layout_marginTop="5dp"
+       android:text="@string/player2" />
+      
+   <TextView
+       android:id="@+id/t2p3"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/t1p2"
+       android:layout_toRightOf="@+id/t1Button"
+       android:layout_marginLeft="55dp"
+       android:layout_marginTop="35dp"
+       android:text="@string/player3" />
+      
+   <TextView
+       android:id="@+id/t2p4"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/t2p3"
+       android:layout_toRightOf="@+id/t1Button"
+       android:layout_marginLeft="55dp"
+       android:layout_marginTop="5dp"
+       android:text="@string/player4" />
+    
+    <Button
+        android:id="@+id/pushButton"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/t2Button"
+        android:layout_marginTop="15dp"
+        android:text="@string/push" />
+    
+</RelativeLayout>

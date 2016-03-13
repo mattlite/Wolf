@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wolf.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable-xhdpi\\wolf.png"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wolf2.png",
+        "source": "C:\\Users\\Matt\\StudioProjects\\Wolf\\app\\src\\main\\res\\drawable-xhdpi\\wolf2.png"
+    }
+]

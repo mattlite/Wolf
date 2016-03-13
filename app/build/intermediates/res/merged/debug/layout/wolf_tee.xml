@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg" >
+
+    <TextView
+        android:id="@+id/teeCurrentHole"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="17dp"
+        android:text="@string/currentHole"
+        android:textSize="18sp" 
+        android:textColor="@color/white"/>
+    
+    <TextView
+        android:id="@+id/hole"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="25dp"
+        android:text="@string/currentHole"
+        android:textSize="28sp"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/choose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/hole"
+        android:layout_marginTop="7dp"
+        android:text="@string/choose"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/p1Button"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/choose"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="23dp"
+        android:text="@string/player2"
+        android:background="@drawable/greenbutton" />
+
+    <Button
+        android:id="@+id/p2Button"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/p1Button"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/player3"
+        android:background="@drawable/greenbutton" />
+
+    <Button
+        android:id="@+id/p3Button"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/p2Button"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/player4"
+        android:background="@drawable/greenbutton" />
+
+    <Button
+        android:id="@+id/loneButton"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/p3Button"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="25dp"
+        android:text="@string/lone"
+        android:background="@drawable/graybutton" />
+
+    <Button
+        android:id="@+id/blindButton"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/p3Button"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="25dp"
+        android:text="@string/blind"
+        android:background="@drawable/graybutton" />
+
+    <TextView
+        android:id="@+id/currentWolf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="17dp"
+        android:text="@string/currentWolf"
+        android:textSize="18sp"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/activeWolf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/hole"
+        android:layout_alignRight="@+id/currentWolf"
+        android:text="@string/player1"
+        android:textSize="22sp"
+        android:textColor="@color/white" />
+    
+
+
+</RelativeLayout>
